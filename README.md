@@ -1,7 +1,7 @@
 # tiddlyWDA
 A TiddlyWiki template for Work Domain Analysis
 
-Download the ./template_WDA.html file and view in Chrome or Firefox browsers.
+Clone or Download this repository (green button at top right), then view the tiddlyWDA_Template.html in Chrome or Firefox.
 
 For the full functionality you might need the TiddlyMap plugin, available at
 https://github.com/felixhayashi/TW5-TiddlyMap
