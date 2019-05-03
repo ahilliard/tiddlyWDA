@@ -1,9 +1,9 @@
 # tiddlyWDA
-A TiddlyWiki template for Work Domain Analysis
+A <a href="https://tiddlywiki.org">TiddlyWiki</a> template for Work Domain Analysis
 
 Clone or Download this repository (green button at top right), then view the ./tiddlyWDA_Template.html in Chrome or Firefox.
 
-For the full functionality you might need the TiddlyMap plugin, available at
+For the full functionality you might need the <a href="http://tiddlymap.org/">TiddlyMap</a> plugin, available at
 https://github.com/felixhayashi/TW5-TiddlyMap
 
 Work Domain Analysis is a classic cognitive engineering 'concept map' method, described well by Naikar, Hopcroft, and Moylan here: 
